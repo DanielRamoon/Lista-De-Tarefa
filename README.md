@@ -1,4 +1,4 @@
-# Lista-De-Tarega
+# Lista-De-Tarefa
 
 Criado em JavaScript, é um sistema de tarefas. Onde pode ser adicioados tarefas a ser cumpridas.
 Pode Também marcar a tarefa como concluida.
